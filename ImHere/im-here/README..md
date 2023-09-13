@@ -22,21 +22,5 @@ Neste projeto, foram utilizadas as seguintes tecnologias e ferramentas:
 - **JavaScript/ES6+**
 - **Typescript**
 
-## Como Executar o Projeto
 
-Siga as etapas abaixo para executar este projeto em sua máquina local:
-
-1. Clone este repositório:
-
-   ```bash
-  git clone https://github.com/seu-usuario/meu-primeiro-projeto-react-native.git
-2. Navegue até o diretório do projeto:
-  ```bash
-  cd meu-primeiro-projeto-react-native
-3. Instale as dependências do projeto:
-  ```bash
-  npm install
-4. Inicie o projeto :
-  ```bash
-  npm start
 
